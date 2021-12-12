@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Reto2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bienvenido </string>
+    <string name="nav_header_subtitle">juan.sanchez1.mt@correo.usa.edu.co</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_add">Agregar</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_productos">Productos</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_sucursales">Sucursales</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <!-- Productos -->
+    <string name="nameP1">Esferas de Navidad</string>
+    <string name="descriptionP1">Set De 40 Esferas 6cm
+        \nColor: Rojo</string>
+    <string name="precioP1">$65\'000.000</string>
+
+
+    <string name="nameP2">Papa Noel</string>
+    <string name="descriptionP2">Papa Noel tamaño real</string>
+    <string name="precioP2">$90\'000.000</string>
+
+
+    <string name="nameP3">Girnalda</string>
+    <string name="descriptionP3">Girnalda de navidad
+        \nColor: Verde</string>
+    <string name="precioP3">$50\'000.000</string>
+
+
+    <string name="nameP4">Galletas de navidad</string>
+    <string name="descriptionP4">Galletas hombre navideño
+        \nColor: cafe</string>
+    <string name="precioP4">$20\'000.000</string>
+
+
+    <string name="nameP5">Luces Navideñas</string>
+    <string name="descriptionP5">Luces Navideñas 30.Und.
+        \nColor: variado</string>
+    <string name="precioP5">$10\'000.000</string>
+
+
+    <string name="nameS1">Cali</string>
+    <string name="descriptionS1">cc.Chipichape</string>
+    <string name="precioS1">local 10</string>
+
+
+
+    <string name="nameS2">Cali</string>
+    <string name="descriptionS2">cc.Palmeto</string>
+    <string name="precioS2">local 11</string>
+
+
+    <string name="nameS3">Cali</string>
+    <string name="descriptionS3">cc.Cosmocentro</string>
+    <string name="precioS3">local 15</string>
+
+    <string name="nameS4">Medellin</string>
+    <string name="descriptionS4">cc.Antioquia</string>
+    <string name="precioS4">local 16</string>
+
+
+    <string name="nameS5">Bogota</string>
+    <string name="descriptionS5">cc. unicentro local 210</string>
+    <string name="precioS5">local 18</string>
+
+
+
+    <string name="nameSE1">Decoracion</string>
+    <string name="descriptionSE1">servicio de decoracion personalizado</string>
+    <string name="precioSE1">A domicilio</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
